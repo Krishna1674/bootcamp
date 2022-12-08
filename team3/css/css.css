@@ -1,0 +1,450 @@
+.main{
+			background-color: #eff3fa;
+			height: 500px;
+		}
+		.head{
+			color: #3e588b;
+		}
+		.line{
+			color: #3e588b;
+			
+		}
+		.para{
+			color: gray;
+		}
+		@media(min-width:769px){
+			.cont1{
+			margin-left: 180px;
+		}
+		}
+		@media(max-width:768px){
+			.main{
+			background-color: whitesmoke;
+			height: 770px;
+
+
+		}
+		}
+		.music{
+			background-color: #3e588b;
+			height: 400px;
+		}
+		.icon{
+			font-size: 26px;
+			border: 1px solid #c0cfed;
+			height: 50px;
+			width: 50px;
+			color: #3e588b;
+			border-radius: 25px;
+			text-align: center;
+			padding-top: 8px;
+			background-color: #c0cfed;
+		}
+		.hi{
+			margin-top: 60px;
+			margin-left: 100px;
+			color: white;
+		}
+		.hi1{
+			margin-top: 150px;
+			margin-left: 50px;
+			color: white;
+		}
+		.hi2{
+			margin-top: 60px;
+			margin-left: 50px;
+			color: white;
+		}
+		.hi3{
+			margin-top: 150px;
+			margin-left: 50px;
+			color: white;
+		}
+
+		.activ{
+			background-color: aliceblue;
+			height: 550px;
+			margin-bottom: 50px;
+		}
+		.blue{
+			float: right;
+			background-color: #3e588b;
+			height: 400px;
+			width: 50%;
+		}
+		.ph2{
+			height: 300px;
+			width: 550px;
+			top: 30px;
+			left: 300px;
+			position: relative;
+		}
+		.ph1{
+			height: 200px;
+			width: 250px;
+			position: relative;
+			bottom: 40px;
+			left: 700px;
+		}
+		.white{
+			height: 250px;
+			width: 300px;
+			background-color: white;
+			position: relative;
+			left: 350px;
+			top: -300px;
+		}
+		.perform{
+			text-align: center;
+			color: #3e588b;
+			top: 10px;
+		}
+		.justo{
+			font-size: 13px;
+			margin-left: 20px;
+		}
+		u{
+			color: steelblue;
+		}
+		.readmore{
+			color: black;
+			width: 150px;
+			height: 30px;
+			border: 1px solid steelblue;
+			text-align: center;
+			margin-left: 20px;
+			font-size: 14px;
+			padding: 5px 30px 5px 30px;
+		}
+
+
+		#nicepage{
+	height: 60px;
+	width: 100%;
+	background-color: lightgray;
+}
+.ic{
+	font-size: 20px;
+	margin-top: 20px;
+	margin-right: 10px;
+}
+.heading{
+	font-size: 20px;
+	margin-top: 20px;
+}
+#xmark{
+	float: right;
+}
+.iconss{
+	margin-left: 190px;
+}
+.logo{
+	height: 50px;
+	width: 100%;
+	padding: 15px;
+	color: gray;
+}
+#music_edu{
+		height: 400px;
+		width: 100%;
+		background-color: #fafcfb;
+}
+.man{
+	height: 393px;
+	width: 470px;
+	float: right;
+}
+#read_more{
+	height: 30px;
+	width: 150px;
+	padding: 3px 30px 10px 30px;
+	border: 2px solid #3e588b;
+}
+.online_edu{
+	margin-top:120px;
+}
+#dark_blue{
+	height: 400px;
+	width: 600px;
+	background-color: #3e588b;
+	margin-left: 300px;
+}
+#girl{
+	width: 800px;
+	height: 400px;
+	margin-top: 100px;
+	margin-left: -100px;
+}
+.mouse{
+	color: #3e588b;
+}
+
+
+.div1{
+	height: 400px;
+	width: 100%;
+	background-color: white;
+	display: flex;
+	align-items: center;
+}
+
+.div5{
+	height: 230px;
+	width: 600px;
+	background-color: #3e588b;
+	float: right;
+	margin-top: -110px;
+	margin-left: 50px;
+}
+#h11{
+	color: white;
+	margin-left: 180px;
+}
+#p11{
+	color: white;
+	font-size: 14px;
+	margin-left: 180px;
+}
+#bt11{
+	padding-top: 6px;
+	padding-bottom: 6px;
+	padding-left: 40px;
+	padding-right: 40px;
+	background-color:  #3e588b;
+	border: 2px solid white;
+	color: white;
+	border-width: thin;
+	margin-left: 180px;
+}
+#p22{
+	color: white;
+	font-size: 14px;
+	margin-left: 180px;
+	margin-top: 15px;
+}
+#a1{
+	color: white;
+}
+#img11{
+	border-radius: 200px;
+	display: inline;
+	position: relative;
+	top: -20px;
+	left: 200px;
+}
+.div6{
+	height: 120px;
+	width: 120px;
+	background-color: #C4DDFF;
+	border-radius: 100px;
+	margin-left: 220px;
+	position: relative;
+	top: 130px;
+}
+
+
+#dark_blue{
+	height: 439px;
+	width: 600px;
+	background-color: #3e588b;
+	margin-left: 300px;
+	margin-top: 50px;
+}
+#girl{
+	width: 800px;
+	height: 400px;
+	margin-top: 40px;
+	margin-left: -100px;
+}
+#light_blue{
+	height: 250px;
+	width: 450px;
+	background-color: #96aedd;
+	margin-left: 300px;
+	z-index: 1;
+	margin-bottom: 50px;
+
+}
+#matter{
+	height: 300px;
+	width: 450px;
+	background-color: white;
+	z-index: 2;
+	position: absolute;
+	left: 250px;
+	top: 3350px;
+	text-align: left;
+}
+
+
+
+
+.r11{
+	height: 200px;
+	width: 350px;
+	background-color: skyblue;
+	margin-left: 100px;
+}
+.r22{
+	height: 200px;
+	width: 200px;
+	background-color: #CDC2AE;
+}
+#b11{
+	font-size: 20px;
+}
+#p33{
+	margin-left: 200px;
+	margin-top: 50px;
+}
+#img22{
+	margin-top: 25px;
+	margin-left: 150px;
+}
+#b22{
+	font-size: 15px;
+}
+#img33{
+	margin-top: 120px;
+	margin-left: 230px;
+}
+#p44{
+	margin-top: 40px;
+}
+	
+	.perform1{
+		color: steelblue;
+	}	
+
+
+	.last{
+			height: 600px;
+			background-color: #eff3fa;
+		}
+		.last1{
+			height: 500px;
+			background-color: #3e588b;
+			margin-top: 45px;
+			margin-left: 220px;
+		}
+		.last2{
+			color: white;
+			margin-top: 160px;
+			margin-left: 30px;
+		}
+		.last3{
+			height: 300px;
+			width: 250px;
+			margin-top: 45px;
+			margin-left: 80px;
+		}
+		.last4{
+			color: #3e588b;
+			margin-top: 25px;
+			margin-left: 80px;
+
+
+		}
+		.last5{
+			color: grey;
+			margin-left: 80px;
+
+		}
+
+     #contact{
+	
+	background-color: #3e588b;
+	height: 700px;
+    }
+		#cnt_us{
+	height: 400px;
+	width: 500px;
+	background-color: white;
+	margin-left: 500px;
+	margin-top: 30px;
+	position: relative;
+	top: -650px;
+	left: 0px;
+	z-index: 1;
+
+}
+#cnt{
+	height: 500px;
+	width: 400px;
+	position: relative;
+	top: 100px;
+	left: 200px;
+	
+	z-index: 2;
+}
+
+.har{
+	border-bottom: 1px solid;
+	border-width: thin;
+	margin-left: 150px;
+}
+#sub{
+	padding: 3px 60px 3px 60px;
+	margin-left: 150px;
+}
+textarea
+{
+	margin-left: 150px;
+}
+.freepik{
+	margin-left: 150px;
+}
+#headingggg{
+	margin-left: 150px;
+}
+#phn{
+	height: 150px;
+	width: 700px;
+	background-color: white;
+	position: relative;
+	top:-10px;
+	left: 315px;
+	z-index: 3;
+	padding-top: 40px;
+}
+.cnt_head{
+	color: #3e588b;
+	margin-right: 10px;
+}
+
+
+.milk{
+	background-color: #393E46;
+}
+#p55{
+	color: white;
+	text-align: center;
+}
+#p66{
+	color: white;
+	text-align: center;
+}
+#np{
+	height: 30px;
+	width: 30px;
+	float: left;
+	margin-top: 20px;
+}
+.logo2{
+	font-family: Baumans;
+	font-size: 22px;
+}
+.harini{
+	background-color: #c0cfed;
+	color: transparent;
+	width: 33px;
+	height: 5px;
+}
+#p23{
+	color: white;
+}
+.performe{
+	color:  #3e588b;
+	margin-left: 15px;
+	padding-top: 20px;
+}
